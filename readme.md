@@ -1,3 +1,4 @@
+[Open on Replit](https://replit.com/@whs-spring-2023/Hangman-Tips-whs-spring-2023-1)
 
 # Hangman (due 3/24/23)
 

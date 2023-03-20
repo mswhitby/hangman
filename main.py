@@ -5,7 +5,7 @@ def hangman():
 
   # 2. Randomly select a word from your wordbank
   # Hint: Figure out how to randomly select in element of a list in python
-
+ 
 
   # 3. Limit the number of guesses
   # Hint: Create a variable to count the number of guesses
