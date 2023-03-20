@@ -1,7 +1,7 @@
 def hangman():
-  ...
-  
+
   # 1. Create a wordbank with a list of strings
+  wordbank = []
 
   # 2. Randomly select a word from the word bank for each new game
 
@@ -14,8 +14,3 @@ def hangman():
   # 6. Create rules for if guess is incorrect
 
   # 7. Create rules for if the guess is correct
-
-
-
-
-  
