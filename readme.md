@@ -1,6 +1,6 @@
 [Open on Replit](https://replit.com/@whs-spring-2023/Hangman-Tips-whs-spring-2023-3)
 
-<iframe src="https://trinket.io/embed/blocks/e2e2c6b8f7?showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<html><iframe src="https://trinket.io/embed/blocks/e2e2c6b8f7?showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></html>
 
 # Hangman (due 3/24/23)
 
